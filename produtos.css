@@ -1,0 +1,11 @@
+header {
+background: black;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+}
