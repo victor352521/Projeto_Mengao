@@ -3,6 +3,10 @@ header {
     padding: 20px 0;
 }
 
+main {
+    backgroun: black;
+}   
+    
 .caixa {
     position: relative;
     width: 940px;
