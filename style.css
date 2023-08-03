@@ -98,7 +98,8 @@ footer {
 }
 
 main {
-    
+    width: 940px;
+    margin: 0 auto;
 }
 
 form {
@@ -160,6 +161,8 @@ td, th {
 .banner {
     width: 70%;
     text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 
 .titulo-principal {
@@ -213,7 +216,7 @@ p::first-line {
 }
 
 .mapa,p {
-    margin: 0 0 2em;
+    margin: 0 0 0;
     text-align: center;
 }
 
@@ -247,6 +250,8 @@ p::first-line {
 
 .imagem-beneficios {
     width: 60%;
+    text-align: center;
+    display: block;
 }
 
 .video {
